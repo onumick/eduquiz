@@ -1,0 +1,312 @@
+[
+  {
+    "question": "Which of the following is not a traditional scientific practice?",
+    "options": ["Fermentation", "Selection", "Pasteurization", "Drying"],
+    "answer": "Pasteurization"
+  },
+  {
+    "question": "How can you separate the mixture of iron fillings and sand?",
+    "options": ["Use distillation method", "Use bar magnet", "Filtrate the mixture", "Pour water into the mixture"],
+    "answer": "Use bar magnet"
+  },
+  {
+    "question": "Which human activity can lead to air pollution?",
+    "options": ["Washing", "Pounding malze", "Littering", "Burning fuels"],
+    "answer": "Burning fuels"
+  },
+  {
+    "question": "Which statement is NOT true about acids?",
+    "options": ["They taste sour", "They turn blue litmus paper red", "They are numbered 8 to 14 in a PH scale", "They are numbered 1 to 6 in a PH scale"],
+    "answer": "They are numbered 8 to 14 in a PH scale"
+  },
+  {
+    "question": "What is population?",
+    "options": ["Is a group of animals or plants that are exactly the same", "Is a group of animals or plants of the same species that are found in a certain place", "Is a place where plants live", "Is a group of animals or plants of different species found in a particular place"],
+    "answer": "Is a group of animals or plants of the same species that are found in a certain place"
+  },
+  {
+    "question": "The following are protected plants in Botswana except....",
+    "options": ["Devil's claw", "Baobab tree", "Mosukujane", "Pigweed"],
+    "answer": "Pigweed"
+  },
+  {
+    "question": "Which one of the instruments below uses reflection of light?",
+    "options": ["Telescope", "Periscope", "Binoculars", "Microscope"],
+    "answer": "Periscope"
+  },
+  {
+    "question": "Why is the pencil appearing as it is broken?",
+    "options": ["Bouncing back of light", "Radiation of heat", "Bending of light", "Reflection of heat"],
+    "answer": "Bending of light"
+  },
+  {
+    "question": "What process led to the formation of water droplets outside the beaker?",
+    "options": ["Evaporation", "Melting", "Condensation", "Sublimation"],
+    "answer": "Condensation"
+  },
+  {
+    "question": "Differentiate between boiling and evaporation.",
+    "options": ["They take place at any temperature", "They all take place throughout the liquid", "Evaporation can take place at any temperature while boiling take place at the surface of the liquid", "Evaporation take place at the surface of a liquid while boiling take place throughout the liquid"],
+    "answer": "Evaporation take place at the surface of a liquid while boiling take place throughout the liquid"
+  },
+  {
+    "question": "Thato boiled water in a beaker. She then put a thermometer in the beaker to measure the temperature. At what degrees celcius will the mercury in the thermometer rise to?",
+    "options": ["100°c", "90°c", "80°c", "110°c"],
+    "answer": "100°c"
+  },
+  {
+    "question": "Which one is classified correctly?",
+    "options": [
+        "A: Element-copper, Compound-Carbon dioxide, Mixture-Oxygen",
+        "B: Element-Salt solution, Compound-Carbon, Mixture-Sugar solution",
+        "C: Element-sulphur, Compound-Sodium chloride, Mixture-Sugar solution",
+        "D: Element-copper, Compound-Salt solution, Mixture-Carbon monoxide"
+    ],
+    "answer": "C: Element-sulphur, Compound-Sodium chloride, Mixture-Sugar solution"
+  },
+  {
+    "question": "In which container will the sugar dissolve faster?",
+    "options": ["A (50°c)", "B (25°c)", "C (10°c)", "D (0°c)"],
+    "answer": "A (50°c)"
+  },
+  {
+    "question": "Which is used to describe all the animals in the food web?",
+    "options": ["Decomposers", "Scavengers", "Consumers", "Producers"],
+    "answer": "Consumers"
+  },
+  {
+    "question": "The best way to look at a solar eclipse is to use",
+    "options": ["Binoculars", "Sunglasses", "Welding glasses", "Telescope"],
+    "answer": "Welding glasses"
+  },
+  {
+    "question": "Define warm front",
+    "options": ["Where warm air replaces cold air", "Where cold air replaces warm air", "Where warm air rotates during thunderstorm", "Is an area of high pressure caused by warm air"],
+    "answer": "Where warm air replaces cold air"
+  },
+  {
+    "question": "What is a saturated solution?",
+    "options": ["It is a milky suspension that do not dissolve", "It is a substance that can dissolve in a solvent", "It is a solution that cannot dissolve any more solute", "It is a solution that can dissolve solute"],
+    "answer": "It is a solution that cannot dissolve any more solute"
+  },
+  {
+    "question": "If hard water is heated strongly it will.....",
+    "options": ["Boil more quickly", "Form fur and scale", "Become softer", "Contain less dissolved salts"],
+    "answer": "Form fur and scale"
+  },
+  {
+    "question": "Dineo grinded a chalk and added it to water. The mixture looked milky. It is called a",
+    "options": ["Solution", "Mixture", "Suspension", "Solvent"],
+    "answer": "Suspension"
+  },
+  {
+    "question": "Dineo has passed science with A*. Which career is not suitable for her?",
+    "options": ["Lawyer", "Pharmacist", "Optometrist", "Nurse"],
+    "answer": "Lawyer"
+  },
+  {
+    "question": "Thato added salt in water and boiled it. What might be the boiling point of the water?",
+    "options": ["103°C", "100°C", "-95°C", "50°"],
+    "answer": "103°C"
+  },
+  {
+    "question": "What is the process marked X?",
+    "options": ["Freezing", "Sublimation", "Evaporation", "Melting"],
+    "answer": "Melting"
+  },
+  {
+    "question": "Which one of the following describes state of matter at C?",
+    "options": ["Particles are closely packed", "It has no shape", "It is harder than A", "It takes the shape of a container"],
+    "answer": "Particles are closely packed"
+  },
+  {
+    "question": "Which one of the following is NOT correct about the image formed by a plain mirror?",
+    "options": ["It is erect", "It is laterally inverted", "It is the same size as the object", "It is upside down"],
+    "answer": "It is upside down"
+  },
+  {
+    "question": "The following animal species are protected in Botswana EXCEPT",
+    "options": ["Rhino", "Giraffe", "kudu", "python"],
+    "answer": "kudu"
+  },
+  {
+    "question": "Which scientist is correctly matched with his scientific knowledge?",
+    "options": ["Edward Jenner----pasteurasation", "Alexander Fleming----penicilin", "Lous Pasteur vaccination", "Thomas Edson telephone"],
+    "answer": "Alexander Fleming----penicilin"
+  },
+  {
+    "question": "IN A BOTTLE THERE IS SATURATED SALT SOLUTION AND SETSO WANT TO SEPARATE IT. Which method can Setso use to separate the mixture?",
+    "options": ["Boiling", "Filtration", "Sedimentation", "Distillation"],
+    "answer": "Distillation"
+  },
+  {
+    "question": "What makes solids good conductors of heat?",
+    "options": ["Their particles are far apart", "They are heavy", "Their particles are closely packed", "They make sonorous sound when dropped on the floor"],
+    "answer": "Their particles are closely packed"
+  },
+  {
+    "question": "How has wheel invention improved transport?",
+    "options": ["The wheel makes vehicles more heavier", "Wheels make vehicles noisy", "Wheels makes vehicles more comfortable", "Wheels makes wheel companies richer"],
+    "answer": "Wheels makes vehicles more comfortable"
+  },
+  {
+    "question": "Which of the following buckets was soft water used for washing?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "B"
+  },
+  {
+    "question": "A pupil discovered that some sugar particles remained at the bottom of her cup of hot tea regardless of how she stirred. What conclusion can be made from the information?",
+    "options": ["The tea was saturated", "The tea was not hot enough", "Sugar particles were too large to dissolve", "Sugar particles always remain at the bottom of a cup"],
+    "answer": "The tea was saturated"
+  },
+  {
+    "question": "Which of the following is most likely to be a habitat for a monkey?",
+    "options": ["Burrow", "Grassland", "House", "Tree"],
+    "answer": "Tree"
+  },
+  {
+    "question": "In which position will lunar eclipse occur?",
+    "options": ["P", "Q", "R", "S"],
+    "answer": "Q"
+  },
+  {
+    "question": "Which disease can be caused by polluted environment?",
+    "options": ["Skin cancer", "HIV AIDS", "Marasmus", "Hepatitis B"],
+    "answer": "Skin cancer"
+  },
+  {
+    "question": "Which of the following objects are correctly classified?",
+    "options": [
+        "A: Transparent-Wall, Translucent-Clear plastic, Opaque-Tinted glass",
+        "B: Transparent-Tinted glass, Translucent-wall, Opaque-Clear glass",
+        "C: Transparent-Clear plastic, Translucent-Tinted glass, Opaque-Wall",
+        "D: Transparent-Paper, Translucent-wall, Opaque-Wood"
+    ],
+    "answer": "C: Transparent-Clear plastic, Translucent-Tinted glass, Opaque-Wall"
+  },
+  {
+    "question": "What is the role of vultures in the food chain?",
+    "options": ["Producers", "Scavengers", "Decomposers", "Habitat"],
+    "answer": "Scavengers"
+  },
+  {
+    "question": "Which substance is soluble in water?",
+    "options": ["Sugar", "Soil", "Stone", "Gravel"],
+    "answer": "Sugar"
+  },
+  {
+    "question": "Earth is the only planet capable of supporting life because,",
+    "options": ["There is light", "There are animals", "There are trees", "There is water"],
+    "answer": "There is water"
+  },
+  {
+    "question": "What is the modern way of conserving giraffes?",
+    "options": ["Hunting male giraffes only", "Hunting near game reserves", "Hunting during winter only", "Keeping them in game reserves"],
+    "answer": "Keeping them in game reserves"
+  },
+  {
+    "question": "Norah is making tea on a gas stove. What are the energy conversions?",
+    "options": ["Chemical to heat energy", "Chemical to kinetic energy", "Chemical to sound energy", "Chemical to chemical energy"],
+    "answer": "Chemical to heat energy"
+  },
+  {
+    "question": "What process will change water to ice?",
+    "options": ["Condensation", "solidification", "Evaporation", "Boiling"],
+    "answer": "solidification"
+  },
+  {
+    "question": "What process is shown by letter K?",
+    "options": ["Evaporation", "Freezing", "Melting", "Boiling"],
+    "answer": "Evaporation"
+  },
+  {
+    "question": "Which animal is protected by law in Botswana?",
+    "options": ["Impala", "Baboon", "Rhinocerous", "Monkey"],
+    "answer": "Rhinocerous"
+  },
+  {
+    "question": "Which nail will rust below?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "B"
+  },
+  {
+    "question": "Which planet is nearest to the sun?",
+    "options": ["Moon", "Earth", "Saturn", "Mercury"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "Which one of the four liquids is an alkaline?",
+    "options": ["X", "W", "R", "K"],
+    "answer": "W"
+  },
+  {
+    "question": "Liquid K is likely to be a",
+    "options": ["Acid", "Alkaline", "Neutral", "Indicator"],
+    "answer": "Acid"
+  },
+  {
+    "question": "Which liquid is neither acid nor alkaline?",
+    "options": ["X", "W", "R", "K"],
+    "answer": "R"
+  },
+  {
+    "question": "Which one of the instrument below is NOT using refraction of light?",
+    "options": ["Camera", "Plain mirror", "Magnifying glass", "Binoculars"],
+    "answer": "Plain mirror"
+  },
+  {
+    "question": "Which element is correctly matched with its symbol?",
+    "options": ["Copper-Fe", "Sodium-Na", "Chlorine-C", "Calcium-CI"],
+    "answer": "Sodium-Na"
+  },
+  {
+    "question": "In which of the following can sound travel very slow?",
+    "options": ["Steel", "Water", "Copper", "Air"],
+    "answer": "Air"
+  },
+  {
+    "question": "Refraction of light can be described as",
+    "options": ["Bending of light", "Penetration of light", "Bouncing back of light", "Brightness of light"],
+    "answer": "Bending of light"
+  },
+  {
+    "question": "Which one is an example of strong acid?",
+    "options": ["Citric acid", "Tartaric acid", "Lactic acid", "Sulphuric acid"],
+    "answer": "Sulphuric acid"
+  },
+  {
+    "question": "Which pin is going to be the last one to fall?",
+    "options": ["X", "Z", "Y", "R"],
+    "answer": "X"
+  },
+  {
+    "question": "Which method of heat transfer is shown above?",
+    "options": ["Radiation", "Conduction", "Convection", "melting"],
+    "answer": "Conduction"
+  },
+  {
+    "question": "Which one of the following describes the changes of energy forms as the fire is burn ing?",
+    "options": ["Chemical energy to heat and light", "Kinetic energy to heat and light", "Chemical energy to electrical energy", "Kinetic energy to chemical energy"],
+    "answer": "Chemical energy to heat and light"
+  },
+  {
+    "question": "By which method of heat transfer is the man receiving warmth?",
+    "options": ["Conduction", "Radiation", "Convection", "Reflection"],
+    "answer": "Radiation"
+  },
+  {
+    "question": "A bicycle dynamo converts kinetic energy to",
+    "options": ["Electrical", "Sound", "Magnetic", "Nuclear"],
+    "answer": "Electrical"
+  },
+  {
+    "question": "Which of the following is NOT a way of reducing friction?",
+    "options": ["Polishing", "Streamlining", "Oiling", "watering"],
+    "answer": "watering"
+  },
+  {
+    "question": "Which process take place at different temperature?",
+    "options": ["boiling", "freezing", "cooling", "evaporation"],
+    "answer": "evaporation"
+  }
+]

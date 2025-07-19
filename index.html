@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduQuiz - Interactive Learning</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="app-container">
+        <!-- Welcome Screen -->
+        <section id="welcome-screen" class="screen active">
+            <div class="welcome-content">
+                <button id="start-btn" class="primary-btn">Start Quiz</button>
+            </div>
+        </section>
+
+        <!-- Level Selection Screen -->
+        <section id="level-screen" class="screen">
+            <h2>Select Your Level</h2>
+            <div id="level-container" class="selection-container">
+                <!-- Levels will be populated dynamically -->
+            </div>
+            <button class="back-btn"><img src="images/back.svg" alt="Back" class="back-icon"> Back</button>
+        </section>
+
+        <!-- Quiz Screen -->
+        <section id="quiz-screen" class="screen">
+            <div class="quiz-header">
+                <div class="quiz-progress">
+                    <div class="progress-bar">
+                        <div class="progress-fill"></div>
+                    </div>
+                    <div class="question-counter">
+                        Question <span id="current-question">1</span> of <span id="total-questions">10</span>
+                    </div>
+                </div>
+                <div class="quiz-info">
+                </div>
+            </div>
+              <div class="quiz-content">
+                <h3 id="question-text">Question text will appear here</h3>
+                <div id="options-container" class="options-container">
+                    <!-- Options will be populated dynamically -->
+                </div>
+            </div>
+            
+            <div id="feedback-container" class="feedback-container">
+                <div id="feedback-content">
+                    <div id="feedback-icon"></div>
+                    <h3 id="feedback-text">Correct!</h3>
+                    <p id="explanation-text">Explanation will appear here.</p>
+                    <button id="next-question-btn" class="primary-btn">Next Question</button>
+                </div>
+            </div>
+            
+            <button id="quiz-exit-btn" class="exit-btn"><i class="fas fa-times"></i></button>
+        </section>
+
+        <!-- Summary Screen -->
+        <section id="summary-screen" class="screen">
+            <h2>Quiz Completed!</h2>
+            <div class="summary-content">
+                <div class="summary-item">
+                    <i class="fas fa-check-circle"></i>
+                    <p>Score: <span id="final-score">0</span>/<span id="total-score">0</span></p>
+                </div>
+                <div class="summary-item">
+                    <i class="fas fa-clock"></i>
+                    <p>Time Taken: <span id="time-taken">0:00</span></p>
+                </div>
+                <div class="summary-message">
+                    <h3 id="encouragement-message">Great job!</h3>
+                </div>
+            </div>
+            <div class="summary-actions">
+                <button id="retry-btn" class="secondary-btn"><i class="fas fa-redo"></i> Try Again</button>
+<button id="change-level-btn" class="secondary-btn"><i class="fas fa-exchange-alt"></i> Change Level</button>
+                <button id="go-home-btn" class="primary-btn"><i class="fas fa-home"></i> Go Home</button>
+            </div>
+        </section>
+
+        <!-- Loading Overlay -->
+        <div id="loading-overlay" class="loading-overlay">
+            <div class="spinner"></div>
+            <p>Loading...</p>
+        </div>
+        
+        <!-- Sound Toggle Button -->
+        <button id="sound-toggle" class="sound-toggle">
+            <i class="fas fa-volume-up" id="sound-icon"></i>
+        </button>
+        
+        <!-- Confetti Canvas for Celebrations -->
+        <canvas id="confetti-canvas"></canvas>
+        
+        <!-- Audio elements for sound effects -->
+        <audio id="correct-sound" preload="auto">
+            <source src="sounds/correct.mp3" type="audio/mpeg">
+        </audio>
+        <audio id="incorrect-sound" preload="auto">
+            <source src="sounds/incorrect.mp3" type="audio/mpeg">
+        </audio>
+        
+        <!-- Exit Confirmation Modal -->
+        <div id="exit-confirmation-modal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>Exit Quiz?</h3>
+                </div>
+                <div class="modal-body">
+                    <p>Are you sure you want to exit the quiz? Your progress will not be saved.</p>
+                </div>
+                <div class="modal-footer">
+                    <button id="exit-cancel-btn" class="secondary-btn">Continue Quiz</button>
+                    <button id="exit-confirm-btn" class="primary-btn">Exit Quiz</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
