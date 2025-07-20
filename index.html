@@ -44,6 +44,7 @@
                 </div>
             </div>
               <div class="quiz-content">
+                <img id="question-image" src="" alt="Question Image" style="display: none; max-width: 100%; margin-bottom: 20px;">
                 <h3 id="question-text">Question text will appear here</h3>
                 <div id="options-container" class="options-container">
                     <!-- Options will be populated dynamically -->
@@ -73,6 +74,10 @@
                 <div class="summary-item">
                     <i class="fas fa-clock"></i>
                     <p>Time Taken: <span id="time-taken">0:00</span></p>
+                </div>
+                <div class="summary-item" style="display: none;">
+                    <i class="fas fa-star"></i>
+                    <p>XP Earned: <span id="earned-xp">0</span></p>
                 </div>
                 <div class="summary-message">
                     <h3 id="encouragement-message">Great job!</h3>
@@ -124,6 +129,8 @@
         </div>
     </div>
 
+
+    </div>
 
     <script src="script.js"></script>
 </body>

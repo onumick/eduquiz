@@ -26,6 +26,7 @@ const loadingOverlay = document.getElementById('loading-overlay');
 const levelContainer = document.getElementById('level-container');
 const optionsContainer = document.getElementById('options-container');
 const questionText = document.getElementById('question-text');
+const questionImage = document.getElementById('question-image');
 const currentQuestionEl = document.getElementById('current-question');
 const totalQuestionsEl = document.getElementById('total-questions');
 const progressFill = document.querySelector('.progress-fill');
@@ -70,10 +71,6 @@ document.getElementById('retry-btn').addEventListener('click', () => {
 });
 
 document.getElementById('change-level-btn').addEventListener('click', () => {
-    showScreen(screens.level);
-});
-
-document.getElementById('change-topic-btn').addEventListener('click', () => {
     showScreen(screens.level);
 });
 
@@ -179,6 +176,13 @@ function loadQuestion() {
     updateProgress();
     
     questionText.textContent = question.question;
+
+    if (question.imagePath) {
+        questionImage.src = question.imagePath;
+        questionImage.style.display = 'block';
+    } else {
+        questionImage.style.display = 'none';
+    }
     
     optionsContainer.innerHTML = '';
     
@@ -262,7 +266,6 @@ function showSummary() {
     
     finalScoreEl.textContent = score;
     totalScoreEl.textContent = currentQuestions.length;
-    earnedXpEl.textContent = xpPoints;
     timeTakenEl.textContent = `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
     
     const percentage = (score / currentQuestions.length) * 100;
