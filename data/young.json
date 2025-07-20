@@ -1,14 +1,400 @@
 [
   {
-    "question": "Who is the tallest person in the world?",
-    "options": ["Teacher Mike", "Leonardo DiCaprio", "Tom Cruise", "Dwayne Johnson"],
-    "answer": "Teacher Mike",
+    "question": "What is waste?",
+    "options": [
+      "Things we love and keep.",
+      "Things we throw away because we don't need them.",
+      "Things we buy from the shop."
+    ],
+    "answer": "Things we throw away because we don't need them.",
     "imagePath": ""
   },
   {
-    "question": "Who is the most famous person in the world?",
-    "options": ["Leonardo DiCaprio", "Teacher Mike", "Tom Cruise", "Dwayne Johnson"],
-    "answer": "Teacher Mike",
+    "question": "Which of these is an example of waste?",
+    "options": [
+      "A new toy.",
+      "A fresh apple.",
+      "An empty plastic bottle."
+    ],
+    "answer": "An empty plastic bottle.",
+    "imagePath": ""
+  },
+  {
+    "question": "What does 'Re-use' mean?",
+    "options": [
+      "To make something new.",
+      "To use less of something.",
+      "To use an item more than once."
+    ],
+    "answer": "To use an item more than once.",
+    "imagePath": ""
+  },
+  {
+    "question": "Which material can be recycled?",
+    "options": [
+      "Food scraps.",
+      "Paper and glass.",
+      "Water."
+    ],
+    "answer": "Paper and glass.",
+    "imagePath": ""
+  },
+  {
+    "question": "Saying \"no\" to a plastic bag at the shop is an example of...",
+    "options": [
+      "Recycling",
+      "Reducing",
+      "Re-using"
+    ],
+    "answer": "Reducing",
+    "imagePath": ""
+  },
+  {
+    "question": "What can old tires be creatively re-used as?",
+    "options": [
+      "A school bag.",
+      "A chair.",
+      "A flower pot."
+    ],
+    "answer": "A flower pot.",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of these is NOT one of the 3 R's?",
+    "options": [
+      "Reduce",
+      "Re-do",
+      "Re-use"
+    ],
+    "answer": "Re-do",
+    "imagePath": ""
+  },
+  {
+    "question": "What does 'Recycling' mean?",
+    "options": [
+      "Making new things from old materials.",
+      "Throwing things in the bin.",
+      "Keeping things forever."
+    ],
+    "answer": "Making new things from old materials.",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of these items can be re-used?",
+    "options": [
+      "A sweet wrapper.",
+      "A glass jar.",
+      "A used tissue."
+    ],
+    "answer": "A glass jar.",
+    "imagePath": ""
+  },
+  {
+    "question": "What can be made from recycled plastic bags?",
+    "options": [
+      "New food.",
+      "New park benches.",
+      "New trees."
+    ],
+    "answer": "New park benches.",
+    "imagePath": ""
+  },
+  {
+    "question": "How many seasons are there in a year?",
+    "options": [
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "4",
+    "imagePath": ""
+  },
+  {
+    "question": "Which is the hottest season?",
+    "options": [
+      "Winter",
+      "Summer",
+      "Autumn"
+    ],
+    "answer": "Summer",
+    "imagePath": ""
+  },
+  {
+    "question": "Which months are usually winter in Botswana?",
+    "options": [
+      "December, January, February",
+      "March, April, May",
+      "June, July, August"
+    ],
+    "answer": "June, July, August",
+    "imagePath": ""
+  },
+  {
+    "question": "In which season do plants start to produce new flowers?",
+    "options": [
+      "Spring",
+      "Summer",
+      "Winter"
+    ],
+    "answer": "Spring",
+    "imagePath": ""
+  },
+  {
+    "question": "What do farmers do in the summer?",
+    "options": [
+      "They hibernate.",
+      "They harvest crops.",
+      "They plough their crops."
+    ],
+    "answer": "They plough their crops.",
+    "imagePath": ""
+  },
+  {
+    "question": "What happens to many trees in winter?",
+    "options": [
+      "They grow more fruit.",
+      "They lose their leaves.",
+      "They get taller."
+    ],
+    "answer": "They lose their leaves.",
+    "imagePath": ""
+  },
+  {
+    "question": "Match the season with what happens: Winter",
+    "options": [
+      "Farmers plough their fields.",
+      "It is the coldest season and people wear warm clothes.",
+      "Plants start to grow new leaves and flowers."
+    ],
+    "answer": "It is the coldest season and people wear warm clothes.",
+    "imagePath": ""
+  },
+  {
+    "question": "Match the season with what happens: Summer",
+    "options": [
+      "It is the harvesting time and fruits ripen.",
+      "Farmers plough their fields.",
+      "Plants start to grow new leaves and flowers."
+    ],
+    "answer": "Farmers plough their fields.",
+    "imagePath": ""
+  },
+  {
+    "question": "Match the season with what happens: Spring",
+    "options": [
+      "Plants start to grow new leaves and flowers.",
+      "It is the coldest season and people wear warm clothes.",
+      "It is the harvesting time and fruits ripen."
+    ],
+    "answer": "Plants start to grow new leaves and flowers.",
+    "imagePath": ""
+  },
+  {
+    "question": "Match the season with what happens: Autumn (Fall)",
+    "options": [
+      "It is the harvesting time and fruits ripen.",
+      "Farmers plough their fields.",
+      "It is the coldest season and people wear warm clothes."
+    ],
+    "answer": "It is the harvesting time and fruits ripen.",
+    "imagePath": ""
+  },
+  {
+    "question": "What is wind?",
+    "options": [
+      "Water that is falling.",
+      "Air that is still.",
+      "Air that is in motion."
+    ],
+    "answer": "Air that is in motion.",
+    "imagePath": ""
+  },
+  {
+    "question": "What instrument is used to show the direction of the wind?",
+    "options": [
+      "A thermometer.",
+      "A wind vane.",
+      "A ruler."
+    ],
+    "answer": "A wind vane.",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of these does NOT show wind direction?",
+    "options": [
+      "A flag blowing.",
+      "A stone on the ground.",
+      "Smoke from a fire."
+    ],
+    "answer": "A stone on the ground.",
+    "imagePath": ""
+  },
+  {
+    "question": "How can wind be helpful?",
+    "options": [
+      "It can destroy houses.",
+      "It can help dry our clothes.",
+      "It can make us feel cold."
+    ],
+    "answer": "It can help dry our clothes.",
+    "imagePath": ""
+  },
+  {
+    "question": "What can a very strong wind do?",
+    "options": [
+      "Help plants grow.",
+      "Destroy crops and houses.",
+      "Make the sun shine brighter."
+    ],
+    "answer": "Destroy crops and houses.",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of these things shows that the wind is blowing?",
+    "options": [
+      "The sun is shining.",
+      "Leaves on trees are moving.",
+      "It is very quiet outside."
+    ],
+    "answer": "Leaves on trees are moving.",
+    "imagePath": ""
+  },
+  {
+    "question": "A wind vane is used to measure...",
+    "options": [
+      "Wind speed.",
+      "Wind direction.",
+      "How hot it is."
+    ],
+    "answer": "Wind direction.",
+    "imagePath": ""
+  },
+  {
+    "question": "How does wind help plants?",
+    "options": [
+      "By spreading their seeds.",
+      "By giving them water.",
+      "By giving them sunlight."
+    ],
+    "answer": "By spreading their seeds.",
+    "imagePath": ""
+  },
+  {
+    "question": "Moving air is also called ______.",
+    "options": [
+      "Rain",
+      "Sun",
+      "Wind"
+    ],
+    "answer": "Wind",
+    "imagePath": ""
+  },
+  {
+    "question": "True or False: Strong wind is always safe.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "imagePath": ""
+  },
+  {
+    "question": "What is a shadow?",
+    "options": [
+      "A type of light.",
+      "A dark area made when light is blocked.",
+      "A reflection in the water."
+    ],
+    "answer": "A dark area made when light is blocked.",
+    "imagePath": ""
+  },
+  {
+    "question": "What do we call an object that does not let light pass through it?",
+    "options": [
+      "See-through object.",
+      "Opaque object.",
+      "Light object."
+    ],
+    "answer": "Opaque object.",
+    "imagePath": ""
+  },
+  {
+    "question": "When are shadows the longest?",
+    "options": [
+      "In the middle of the day.",
+      "At midnight.",
+      "In the morning and late afternoon."
+    ],
+    "answer": "In the morning and late afternoon.",
+    "imagePath": ""
+  },
+  {
+    "question": "A shadow is formed when...",
+    "options": [
+      "It is very sunny.",
+      "Light is blocked.",
+      "It is night time."
+    ],
+    "answer": "Light is blocked.",
+    "imagePath": ""
+  },
+  {
+    "question": "The different shapes of the moon are called its...",
+    "options": [
+      "Colours.",
+      "Phases.",
+      "Sizes."
+    ],
+    "answer": "Phases.",
+    "imagePath": ""
+  },
+  {
+    "question": "What is a \"waxing\" moon?",
+    "options": [
+      "A moon that looks like it is shrinking.",
+      "A moon that looks like it is getting bigger.",
+      "A moon that has disappeared."
+    ],
+    "answer": "A moon that looks like it is getting bigger.",
+    "imagePath": ""
+  },
+  {
+    "question": "When the moon appears to be getting smaller, it is...",
+    "options": [
+      "Waning.",
+      "Waxing.",
+      "Full."
+    ],
+    "answer": "Waning.",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of these can make a shadow?",
+    "options": [
+      "A window.",
+      "A glass of water.",
+      "A person."
+    ],
+    "answer": "A person.",
+    "imagePath": ""
+  },
+  {
+    "question": "True or False: Shadows are very short in the morning.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "imagePath": ""
+  },
+  {
+    "question": "Where do we usually see the moon?",
+    "options": [
+      "In the sky during the day.",
+      "In the sky at night.",
+      "Under the ground."
+    ],
+    "answer": "In the sky at night.",
     "imagePath": ""
   }
 ]
