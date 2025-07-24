@@ -1,378 +1,363 @@
 [
   {
-    "question": "Which of the following is not a traditional scientific practice?",
-    "options": ["Fermentation", "Selection", "Pasteurization", "Drying"],
-    "answer": "Pasteurization",
+    "question": "Which of the following does NOT take care of abandoned children",
+    "options": ["Red cross", "SOS", "Mpule Kgwelegobe Children Centre", "Child line Botswana"],
+    "answer": "Red cross",
     "imagePath": ""
   },
   {
-    "question": "How can you separate the mixture of iron fillings and sand?",
-    "options": ["Use distillation method", "Use bar magnet", "Filtrate the mixture", "Pour water into the mixture"],
-    "answer": "Use bar magnet",
+    "question": "Which event marks the time Muhammad received the first chapter of the Qur'an from the angel Gibril.",
+    "options": ["Palm Sunday", "Night of power", "Hijira", "Gurpurbas"],
+    "answer": "Night of power",
     "imagePath": ""
   },
   {
-    "question": "Which human activity can lead to air pollution?",
-    "options": ["Washing", "Pounding malze", "Littering", "Burning fuels"],
-    "answer": "Burning fuels",
+    "question": "Which religion has its law ethics known as shariah",
+    "options": ["Islam", "Buddhism", "Hinduism", "Sikhism"],
+    "answer": "Islam",
     "imagePath": ""
   },
   {
-    "question": "Which statement is NOT true about acids?",
-    "options": ["They taste sour", "They turn blue litmus paper red", "They are numbered 8 to 14 in a PH scale", "They are numbered 1 to 6 in a PH scale"],
-    "answer": "They are numbered 8 to 14 in a PH scale",
+    "question": "Which religion is correctly matched with its special occasion?",
+    "options": ["Hinduism - Ramadan", "ATR - Good Friday", "Islam - Dikgafela", "Christianity. - Easters"],
+    "answer": "Christianity. - Easters",
     "imagePath": ""
   },
   {
-    "question": "What is population?",
-    "options": ["Is a group of animals or plants that are exactly the same", "Is a group of animals or plants of the same species that are found in a certain place", "Is a place where plants live", "Is a group of animals or plants of different species found in a particular place"],
-    "answer": "Is a group of animals or plants of the same species that are found in a certain place",
+    "question": "Out of school who are roaming the streets are mostly involved in crime. What can be done to reduce this problem?",
+    "options": ["Hiding criminals from police officers", "Creating employment", "Not reporting criminals", "Buying stolen goods from criminals"],
+    "answer": "Creating employment",
     "imagePath": ""
   },
   {
-    "question": "The following are protected plants in Botswana except....",
-    "options": ["Devil's claw", "Baobab tree", "Mosukujane", "Pigweed"],
-    "answer": "Pigweed",
+    "question": "What is the significance of morally good society?",
+    "options": ["Encourage tolerance", "Increased value of money", "Enjoying peace and harmony", "Declining of peace and thermocy"],
+    "answer": "Enjoying peace and harmony",
     "imagePath": ""
   },
   {
-    "question": "Which one of the instruments below uses reflection of light?",
-    "options": ["Telescope", "Periscope", "Binoculars", "Microscope"],
-    "answer": "Periscope",
+    "question": "Which of the following statement best defines the concept religion",
+    "options": ["It is the way in which we behave and worship", "It is the bellef in the Supreme Being", "it is a bellef in performing rituals", "It is a belief in religious objects and festivals"],
+    "answer": "It is the bellef in the Supreme Being",
     "imagePath": ""
   },
   {
-    "question": "Why is the pencil appearing as it is broken?",
-    "options": ["Bouncing back of light", "Radiation of heat", "Bending of light", "Reflection of heat"],
-    "answer": "Bending of light",
-    "imagePath": "images/page2question8.png"
-  },
-  {
-    "question": "What process led to the formation of water droplets outside the beaker?",
-    "options": ["Evaporation", "Melting", "Condensation", "Sublimation"],
-    "answer": "Condensation",
-    "imagePath": "images/page3question9.png"
-  },
-  {
-    "question": "Differentiate between boiling and evaporation.",
-    "options": ["They take place at any temperature", "They all take place throughout the liquid", "Evaporation can take place at any temperature while boiling take place at the surface of the liquid", "Evaporation take place at the surface of a liquid while boiling take place throughout the liquid"],
-    "answer": "Evaporation take place at the surface of a liquid while boiling take place throughout the liquid",
+    "question": "An occasion celebrated by Muslims to remember and celebrate Ibraham to kill his son Isaac is called..",
+    "options": ["Eid-Ul-Admi", "Easter", "D. &cension day"],
+    "answer": "Eid-Ul-Admi",
     "imagePath": ""
   },
   {
-    "question": "Thato boiled water in a beaker. She then put a thermometer in the beaker to measure the temperature. At what degrees celcius will the mercury in the thermometer rise to?",
-    "options": ["100°c", "90°c", "80°c", "110°c"],
-    "answer": "100°c",
+    "question": "Which of the following reasons can lead to juvenile delinquency?",
+    "options": ["Children learning about good moral velües", "Paranta taking good care of theil children", "Bad influence from friends at school", "Puntahing juverlite delinquents at the kgojla"],
+    "answer": "Bad influence from friends at school",
     "imagePath": ""
   },
   {
-    "question": "Which one is classified correctly?",
-    "options": [
-        "A: Element-copper, Compound-Carbon dioxide, Mixture-Oxygen",
-        "B: Element-Salt solution, Compound-Carbon, Mixture-Sugar solution",
-        "C: Element-sulphur, Compound-Sodium chloride, Mixture-Sugar solution",
-        "D: Element-copper, Compound-Salt solution, Mixture-Carbon monoxide"
-    ],
-    "answer": "C: Element-sulphur, Compound-Sodium chloride, Mixture-Sugar solution",
+    "question": "Which of the following NOT a sacred book?",
+    "options": ["Quran", "Vedas", "Kitab Addon", "Aum"],
+    "answer": "Aum",
     "imagePath": ""
   },
   {
-    "question": "In which container will the sugar dissolve faster?",
-    "options": ["A (50°c)", "B (25°c)", "C (10°c)", "D (0°c)"],
-    "answer": "A (50°c)",
-    "imagePath": "images/page3question13.png"
-  },
-  {
-    "question": "Which is used to describe all the animals in the food web?",
-    "options": ["Decomposers", "Scavengers", "Consumers", "Producers"],
-    "answer": "Consumers",
+    "question": "Why it important to punch the wrong doors?",
+    "options": ["To encourage them to misbehave", "To teach them ways of ill-treating others", "To encourage them to excessive alcohol", "To encourage them to cobay the law"],
+    "answer": "To encourage them to cobay the law",
     "imagePath": ""
   },
   {
-    "question": "The best way to look at a solar eclipse is to use",
-    "options": ["Binoculars", "Sunglasses", "Welding glasses", "Telescope"],
-    "answer": "Welding glasses",
+    "question": "Which of the following explains self-esteern?",
+    "options": ["The way we feel about each other", "How we feel about our work", "How we feel about ourselves", "The way we feel about our friends"],
+    "answer": "How we feel about ourselves",
     "imagePath": ""
   },
   {
-    "question": "Define warm front",
-    "options": ["Where warm air replaces cold air", "Where cold air replaces warm air", "Where warm air rotates during thunderstorm", "Is an area of high pressure caused by warm air"],
-    "answer": "Where warm air replaces cold air",
+    "question": "Which of the following is considered morally bad in BOTSWANA?",
+    "options": ["Giving to the needs", "Committing suicide", "Good parenting", "Sharing with others"],
+    "answer": "Committing suicide",
     "imagePath": ""
   },
   {
-    "question": "What is a saturated solution?",
-    "options": ["It is a milky suspension that do not dissolve", "It is a substance that can dissolve in a solvent", "It is a solution that cannot dissolve any more solute", "It is a solution that can dissolve solute"],
-    "answer": "It is a solution that cannot dissolve any more solute",
+    "question": "Which of the following te NOT a way of dealing with juvenile delinquents in the school",
+    "options": ["Cepital punishment", "Corporal punishment", "Suspension", "Sending to rehabilitation school"],
+    "answer": "Cepital punishment",
     "imagePath": ""
   },
   {
-    "question": "If hard water is heated strongly it will.....",
-    "options": ["Boil more quickly", "Form fur and scale", "Become softer", "Contain less dissolved salts"],
-    "answer": "Form fur and scale",
+    "question": "How does Islim discourage people from committing crime in Sharia Law",
+    "options": ["Cut nands", "Cut finger", "Remove one eye", "Give two strokes"],
+    "answer": "Cut nands",
     "imagePath": ""
   },
   {
-    "question": "Dineo grinded a chalk and added it to water. The mixture looked milky. It is called a",
-    "options": ["Solution", "Mixture", "Suspension", "Solvent"],
-    "answer": "Suspension",
+    "question": "Which cultural custom helpa, to prevent the spread of HIV and AIDS?",
+    "options": ["Seentio", "Initiation schools", "Polygamy", "Traditional healing methode"],
+    "answer": "Initiation schools",
     "imagePath": ""
   },
   {
-    "question": "Dineo has passed science with A*. Which career is not suitable for her?",
-    "options": ["Lawyer", "Pharmacist", "Optometrist", "Nurse"],
-    "answer": "Lawyer",
+    "question": "Which is the first group that we balong 107",
+    "options": ["School", "Class", "Family", "School terri"],
+    "answer": "Family",
     "imagePath": ""
   },
   {
-    "question": "Thato added salt in water and boiled it. What might be the boiling point of the water?",
-    "options": ["103°C", "100°C", "-95°C", "50°"],
-    "answer": "103°C",
+    "question": "Mr. Ranegoo had a conflict with Numane and Namane ended up stabbing him with a sharp object When Rankgodi was stالله recovering at the hospitathis two son plotted to steal Namane's property. What lead to Mr Rankgodila sonis to plan to steel Mr Namane's property",
+    "options": ["Peer pressure", "Alcohol abuse", "Poverty", "Revenge"],
+    "answer": "Revenge",
     "imagePath": ""
   },
   {
-    "question": "What is the process marked X?",
-    "options": ["Freezing", "Sublimation", "Evaporation", "Melting"],
-    "answer": "Melting",
-    "imagePath": "images/page4questions22-23.png"
-  },
-  {
-    "question": "Which one of the following describes state of matter at C?",
-    "options": ["Particles are closely packed", "It has no shape", "It is harder than A", "It takes the shape of a container"],
-    "answer": "Particles are closely packed",
-    "imagePath": "images/page4questions22-23.png"
-  },
-  {
-    "question": "Which one of the following is NOT correct about the image formed by a plain mirror?",
-    "options": ["It is erect", "It is laterally inverted", "It is the same size as the object", "It is upside down"],
-    "answer": "It is upside down",
+    "question": "Tambo stole a pencil and gave to her sister His sistem reported him to the teacher. What does Rambo's sister action shows?",
+    "options": ["Communily crime", "Reducing come", "Buying stolen goods", "Hating the brother"],
+    "answer": "Reducing come",
     "imagePath": ""
   },
   {
-    "question": "The following animal species are protected in Botswana EXCEPT",
-    "options": ["Rhino", "Giraffe", "kudu", "python"],
-    "answer": "kudu",
+    "question": "Jesus said this is my body (bread) and my blood (wine), this was said during which pocasion?",
+    "options": ["Christmas", "Gupürie", "Last supper", "The lent"],
+    "answer": "Last supper",
     "imagePath": ""
   },
   {
-    "question": "Which scientist is correctly matched with his scientific knowledge?",
-    "options": ["Edward Jenner----pasteurasation", "Alexander Fleming----penicilin", "Lous Pasteur vaccination", "Thomas Edson telephone"],
-    "answer": "Alexander Fleming----penicilin",
+    "question": "What is the significance of Diafila festival in ATR",
+    "options": ["thank Badime for onnging good main", "Makes new start of life", "Celebrate installation of a new chief", "Pamember the death of Guru Nanak"],
+    "answer": "thank Badime for onnging good main",
     "imagePath": ""
   },
   {
-    "question": "IN A BOTTLE THERE IS SATURATED SALT SOLUTION AND SETSO WANT TO SEPARATE IT. Which method can Setso use to separate the mixture?",
-    "options": ["Boiling", "Filtration", "Sedimentation", "Distillation"],
-    "answer": "Distillation",
+    "question": "Wudu is also konwn as",
+    "options": ["Healing", "Chanting", "Punfication", "Praying"],
+    "answer": "Punfication",
     "imagePath": ""
   },
   {
-    "question": "What makes solids good conductors of heat?",
-    "options": ["Their particles are far apart", "They are heavy", "Their particles are closely packed", "They make sonorous sound when dropped on the floor"],
-    "answer": "Their particles are closely packed",
+    "question": "It is a key event of the founder of Sikhism",
+    "options": ["Followers carry the cross", "Followers fast for twenty four hours.", "Followers carry the Guru Garanth sahib", "Followers read the Quran"],
+    "answer": "Followers carry the Guru Garanth sahib",
     "imagePath": ""
   },
   {
-    "question": "How has wheel invention improved transport?",
-    "options": ["The wheel makes vehicles more heavier", "Wheels make vehicles noisy", "Wheels makes vehicles more comfortable", "Wheels makes wheel companies richer"],
-    "answer": "Wheels makes vehicles more comfortable",
+    "question": "Which type of punishment can a child receive at school?",
+    "options": ["Capital punishment", "Imprisonment", "Fine", "suspension"],
+    "answer": "suspension",
     "imagePath": ""
   },
   {
-    "question": "Which of the following buckets was soft water used for washing?",
-    "options": ["A", "B", "C", "D"],
-    "answer": "B",
-    "imagePath": "images/page5question30.png"
-  },
-  {
-    "question": "A pupil discovered that some sugar particles remained at the bottom of her cup of hot tea regardless of how she stirred. What conclusion can be made from the information?",
-    "options": ["The tea was saturated", "The tea was not hot enough", "Sugar particles were too large to dissolve", "Sugar particles always remain at the bottom of a cup"],
-    "answer": "The tea was saturated",
+    "question": "A special celebration that celebrates the birth and death of Buddhist founder.",
+    "options": ["wesak", "Obon", "Divali", "Pesach"],
+    "answer": "wesak",
     "imagePath": ""
   },
   {
-    "question": "Which of the following is most likely to be a habitat for a monkey?",
-    "options": ["Burrow", "Grassland", "House", "Tree"],
-    "answer": "Tree",
+    "question": "They use mountains, caves and rivers as their place of worship.......",
+    "options": ["A Muslims", "Sikhis", "A.T.R", "D Bahai-faith"],
+    "answer": "A.T.R",
     "imagePath": ""
   },
   {
-    "question": "In which position will lunar eclipse occur?",
-    "options": ["P", "Q", "R", "S"],
-    "answer": "Q",
-    "imagePath": "images/page6question33.png"
-  },
-  {
-    "question": "Which disease can be caused by polluted environment?",
-    "options": ["Skin cancer", "HIV AIDS", "Marasmus", "Hepatitis B"],
-    "answer": "Skin cancer",
+    "question": "Muslims face to the pilgrimage place called. when they pray.",
+    "options": ["Moria", "Mecca", "Jerusalem", "Madina"],
+    "answer": "Mecca",
     "imagePath": ""
   },
   {
-    "question": "Which of the following objects are correctly classified?",
-    "options": [
-        "A: Transparent-Wall, Translucent-Clear plastic, Opaque-Tinted glass",
-        "B: Transparent-Tinted glass, Translucent-wall, Opaque-Clear glass",
-        "C: Transparent-Clear plastic, Translucent-Tinted glass, Opaque-Wall",
-        "D: Transparent-Paper, Translucent-wall, Opaque-Wood"
-    ],
-    "answer": "C: Transparent-Clear plastic, Translucent-Tinted glass, Opaque-Wall",
+    "question": "They read the Guru Garanth and listen to their religious songs called the kirtans.........",
+    "options": ["Muslims", "Sikhis", "A.T.R", "Bahai-faith"],
+    "answer": "Sikhis",
     "imagePath": ""
   },
   {
-    "question": "What is the role of vultures in the food chain?",
-    "options": ["Producers", "Scavengers", "Decomposers", "Habitat"],
-    "answer": "Scavengers",
+    "question": "Thabo is 16 years, he had committed a criminal case. Where should he be taken to serve his sentence",
+    "options": ["Maun rehabilitation centre", "Molepolole rehabilitation centre", "Gaborone rehabilitation centre", "Lobatse rehabilitation centra"],
+    "answer": "Maun rehabilitation centre",
     "imagePath": ""
   },
   {
-    "question": "Which substance is soluble in water?",
-    "options": ["Sugar", "Soil", "Stone", "Gravel"],
-    "answer": "Sugar",
+    "question": "A sacred place is called",
+    "options": ["Bad plece", "wicked place", "holy place", "drinking place"],
+    "answer": "holy place",
     "imagePath": ""
   },
   {
-    "question": "Earth is the only planet capable of supporting life because,",
-    "options": ["There is light", "There are animals", "There are trees", "There is water"],
-    "answer": "There is water",
+    "question": "Which of the following shows the advantage of corporal punishment?",
+    "options": ["It makes people stabom", "It Instils discipline in people", "It makes people become aggressive", "It makes people develop low self esteem"],
+    "answer": "It Instils discipline in people",
     "imagePath": ""
   },
   {
-    "question": "What is the modern way of conserving giraffes?",
-    "options": ["Hunting male giraffes only", "Hunting near game reserves", "Hunting during winter only", "Keeping them in game reserves"],
-    "answer": "Keeping them in game reserves",
+    "question": "Which activity is most common in religions when they worship?",
+    "options": ["Praying", "Crying", "Laughing", "Separating"],
+    "answer": "Praying",
     "imagePath": ""
   },
   {
-    "question": "Norah is making tea on a gas stove. What are the energy conversions?",
-    "options": ["Chemical to heat energy", "Chemical to kinetic energy", "Chemical to sound energy", "Chemical to chemical energy"],
-    "answer": "Chemical to heat energy",
+    "question": "Which one is Islamic festival?",
+    "options": ["Christianity", "Easter", "wesak", "Eid-ul-adho"],
+    "answer": "Eid-ul-adho",
     "imagePath": ""
   },
   {
-    "question": "What process will change water to ice?",
-    "options": ["Condensation", "solidification", "Evaporation", "Boiling"],
-    "answer": "solidification",
-    "imagePath": "images/page7questions41-42.png"
-  },
-  {
-    "question": "What process is shown by letter K?",
-    "options": ["Evaporation", "Freezing", "Melting", "Boiling"],
-    "answer": "Evaporation",
-    "imagePath": "images/page7questions41-42.png"
-  },
-  {
-    "question": "Which animal is protected by law in Botswana?",
-    "options": ["Impala", "Baboon", "Rhinocerous", "Monkey"],
-    "answer": "Rhinocerous",
+    "question": "Anting autonomously enables one to",
+    "options": ["make owns decisions.", "plan for own future", "gain knowledge and skill", "elects wise leaders"],
+    "answer": "make owns decisions.",
     "imagePath": ""
   },
   {
-    "question": "Which nail will rust below?",
-    "options": ["A", "B", "C", "D"],
-    "answer": "B",
-    "imagePath": "images/page7question44.png"
-  },
-  {
-    "question": "Which planet is nearest to the sun?",
-    "options": ["Moon", "Earth", "Saturn", "Mercury"],
-    "answer": "Mercury",
+    "question": "What is worship?",
+    "options": ["acting of singing loud in the sacred places", "act of prayer In a church", "act of showing respect and honour to the Supreme Being", "act of sacrifice to the Supreme Being"],
+    "answer": "act of showing respect and honour to the Supreme Being",
     "imagePath": ""
   },
   {
-    "question": "Which one of the four liquids is an alkaline?",
-    "options": ["X", "W", "R", "K"],
-    "answer": "W",
+    "question": "Which of these objects are used in African Traditional Religion",
+    "options": ["Incense sticks and bells", "a holly book and prayer mata", "a fly-whisk and animal bones", "a cross and prayer beads"],
+    "answer": "a fly-whisk and animal bones",
     "imagePath": ""
   },
   {
-    "question": "Liquid K is likely to be a",
-    "options": ["Acid", "Alkaline", "Neutral", "Indicator"],
-    "answer": "Acid",
+    "question": "Mr. Johnson la lonatos husband, after two years lurate was attacked by illness and died. Mr Johnson and pratos familles met and agreed that Johnson should marry Kagiso, Ipratds younger. alistar. Which traditional custom were they practising?",
+    "options": ["seantlo", "polygamy", "polyandry", "go rupa"],
+    "answer": "seantlo",
     "imagePath": ""
   },
   {
-    "question": "Which liquid is neither acid nor alkaline?",
-    "options": ["X", "W", "R", "K"],
-    "answer": "R",
+    "question": "The practice above can Increase the spread of",
+    "options": ["culture", "customs", "HIV/AIDS", "malaria"],
+    "answer": "HIV/AIDS",
     "imagePath": ""
   },
   {
-    "question": "Which one of the instrument below is NOT using refraction of light?",
-    "options": ["Camera", "Plain mirror", "Magnifying glass", "Binoculars"],
-    "answer": "Plain mirror",
+    "question": "A young person who commits crime is called",
+    "options": ["juvenile", "young", "baby", "juvenile delinquent"],
+    "answer": "juvenile delinquent",
     "imagePath": ""
   },
   {
-    "question": "Which element is correctly matched with its symbol?",
-    "options": ["Copper-Fe", "Sodium-Na", "Chlorine-C", "Calcium-CI"],
-    "answer": "Sodium-Na",
+    "question": "Which of the following traditional practice can help prevent the spread of aids?",
+    "options": ["seantlo", "circumcision", "encouraging wife to be faithfully", "sleeping with a virgin"],
+    "answer": "circumcision",
     "imagePath": ""
   },
   {
-    "question": "In which of the following can sound travel very slow?",
-    "options": ["Steel", "Water", "Copper", "Air"],
-    "answer": "Air",
+    "question": "Which of the following is a crime commonly committed by juvenile delinquents?",
+    "options": ["rape", "car Nijacking", "murder", "shop lifting"],
+    "answer": "shop lifting",
     "imagePath": ""
   },
   {
-    "question": "Refraction of light can be described as",
-    "options": ["Bending of light", "Penetration of light", "Bouncing back of light", "Brightness of light"],
-    "answer": "Bending of light",
+    "question": "Which of the following religious festivale is associated with Christianity?",
+    "options": ["divali", "dikgafela", "Ramadan", "good Friday"],
+    "answer": "good Friday",
     "imagePath": ""
   },
   {
-    "question": "Which one is an example of strong acid?",
-    "options": ["Citric acid", "Tartaric acid", "Lactic acid", "Sulphuric acid"],
-    "answer": "Sulphuric acid",
+    "question": "Which of the following is not a reason why people worship?",
+    "options": ["to become closer to the Supreme Being", "to be close to other bellevers", "to pray for guidence from the Supreme Being", "to sin and laugh at others"],
+    "answer": "to sin and laugh at others",
     "imagePath": ""
   },
   {
-    "question": "Which pin is going to be the last one to fall?",
-    "options": ["X", "Z", "Y", "R"],
-    "answer": "X",
-    "imagePath": "images/page8questions54-55.png"
-  },
-  {
-    "question": "Which method of heat transfer is shown above?",
-    "options": ["Radiation", "Conduction", "Convection", "melting"],
-    "answer": "Conduction",
-    "imagePath": "images/page8questions54-55.png"
-  },
-  {
-    "question": "Which one of the following describes the changes of energy forms as the fire is burn ing?",
-    "options": ["Chemical energy to heat and light", "Kinetic energy to heat and light", "Chemical energy to electrical energy", "Kinetic energy to chemical energy"],
-    "answer": "Chemical energy to heat and light",
-    "imagePath": "images/page8questions56-57.png"
-  },
-  {
-    "question": "By which method of heat transfer is the man receiving warmth?",
-    "options": ["Conduction", "Radiation", "Convection", "Reflection"],
-    "answer": "Radiation",
-    "imagePath": "images/page8questions56-57.png"
-  },
-  {
-    "question": "A bicycle dynamo converts kinetic energy to",
-    "options": ["Electrical", "Sound", "Magnetic", "Nuclear"],
-    "answer": "Electrical",
+    "question": "What does the cross symbolise in Christianity?",
+    "options": ["the adulthood of Jesus Christ", "the birth of Jesus Christ", "the crucification of Jesus Christ", "the ascending of Jesus"],
+    "answer": "the crucification of Jesus Christ",
     "imagePath": ""
   },
   {
-    "question": "Which of the following is NOT a way of reducing friction?",
-    "options": ["Polishing", "Streamlining", "Oiling", "watering"],
-    "answer": "watering",
+    "question": "Which marks the rising of Jesus Christ to heaven?",
+    "options": ["Ascension Day", "Christmas day", "good Friday", "Easter Sunday"],
+    "answer": "Ascension Day",
     "imagePath": ""
   },
   {
-    "question": "Which process take place at different temperature?",
-    "options": ["boiling", "freezing", "cooling", "evaporation"],
-    "answer": "evaporation",
+    "question": "Christians may pray on any day but.",
+    "options": ["Sunday is a special day", "Monday is a special day", "Tuesday is a special day", "Wednesday is a special day"],
+    "answer": "Sunday is a special day",
     "imagePath": ""
   },
   {
-    "question": "Which of the following is NOT a way of conserving water?",
-    "options": ["Using a bucket to bath", "Using a hose pipe to water the garden", "Using a watering can to water the garden", "Using a bucket to wash clothes"],
-    "answer": "Using a hose pipe to water the garden",
+    "question": "How do religious discourage their followers from committing crime?",
+    "options": ["forgiving those who canimit crime", "reporting criminals to religious leaders", "teaching them good moral values", "Praying for them"],
+    "answer": "teaching them good moral values",
+    "imagePath": ""
+  },
+  {
+    "question": "What is the Sikhs do during baisakhi celebrations?",
+    "options": ["attend prayer meetings", "arrest people in church", "lights are put everywhere", "use mats as seats"],
+    "answer": "attend prayer meetings",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of the following is the importance of festivals to the bellevers?",
+    "options": ["people learn more about their religion", "people learn more about their families", "believers create new enemies", "believers build new temples"],
+    "answer": "people learn more about their religion",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of the following is practised in both religious and non-religious ceremonies?",
+    "options": ["fasting", "meditation", "praying", "pilgrimage"],
+    "answer": "praying",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of the following is a religious occasion?",
+    "options": ["BDF day", "teacher's day", "Passover", "African child day"],
+    "answer": "Passover",
+    "imagePath": ""
+  },
+  {
+    "question": "Which festival marks the end of Ramadan?",
+    "options": ["Eid-ul-adha", "Eid-al-fitr", "Obon", "Rabi-al-awwal"],
+    "answer": "Eid-al-fitr",
+    "imagePath": ""
+  },
+  {
+    "question": "A Hindu festival of the light is called",
+    "options": ["Ramadan", "hijra", "divali", "wesak"],
+    "answer": "divali",
+    "imagePath": ""
+  },
+  {
+    "question": "What is the importance of punishment?",
+    "options": ["make people to fear the police", "encourage people to break the law", "encourage people to obey the law.", "make people to repeat the same mistakes"],
+    "answer": "encourage people to obey the law.",
+    "imagePath": ""
+  },
+  {
+    "question": "Thabo did not conduct herself in a proper manner and as such the was told to remain behind in the classroom while others went home. The type of punishment given to Thabo was",
+    "options": ["detention", "suspension", "expulsion", "manual work"],
+    "answer": "detention",
+    "imagePath": ""
+  },
+  {
+    "question": "What is used to symbolise the washing away of sin?",
+    "options": ["alcohol", "water", "blood", "oil"],
+    "answer": "water",
+    "imagePath": ""
+  },
+  {
+    "question": "What is crime?",
+    "options": ["being punished in the society", "breaking the country's laws", "being against religious values", "wrong behaviour in the society"],
+    "answer": "breaking the country's laws",
+    "imagePath": ""
+  },
+  {
+    "question": "What best describes Palm Sunday?",
+    "options": ["Jesus arrives in Jerusalem on a donkey", "Jesus shares the Holy Communion", "Jesus resurrects from the dead", "Jesus ascends to hroven"],
+    "answer": "Jesus arrives in Jerusalem on a donkey",
+    "imagePath": ""
+  },
+  {
+    "question": "An example of morally right acting is",
+    "options": ["selfishness", "murder", "fighting", "loyalty"],
+    "answer": "loyalty",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of the following organillations are responsibile for taking custody of abandoned children",
+    "options": ["Save Our Souاs", "Phudulogong", "The Manitara Foundation", "Tiamelong Rehabilitation Centie"],
+    "answer": "Save Our Souاs",
     "imagePath": ""
   }
 ]
+
