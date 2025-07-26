@@ -1,400 +1,320 @@
 [
   {
-    "question": "What is waste?",
-    "options": [
-      "Things we love and keep.",
-      "Things we throw away because we don't need them.",
-      "Things we buy from the shop."
-    ],
-    "answer": "Things we throw away because we don't need them.",
-    "imagePath": ""
-  },
-  {
-    "question": "Which of these is an example of waste?",
-    "options": [
-      "A new toy.",
-      "A fresh apple.",
-      "An empty plastic bottle."
-    ],
-    "answer": "An empty plastic bottle.",
-    "imagePath": ""
-  },
-  {
     "question": "What does 'Re-use' mean?",
-    "options": [
-      "To make something new.",
-      "To use less of something.",
-      "To use an item more than once."
-    ],
-    "answer": "To use an item more than once.",
+    "options": ["To make something new from old materials", "To use less of something", "To use an item more than once", "To throw something away"],
+    "answer": "To use an item more than once",
     "imagePath": ""
   },
   {
-    "question": "Which material can be recycled?",
-    "options": [
-      "Food scraps.",
-      "Paper and glass.",
-      "Water."
-    ],
-    "answer": "Paper and glass.",
-    "imagePath": ""
-  },
-  {
-    "question": "Saying \"no\" to a plastic bag at the shop is an example of...",
-    "options": [
-      "Recycling",
-      "Reducing",
-      "Re-using"
-    ],
+    "question": "Saying 'no' to a plastic bag at the shop is an example of...",
+    "options": ["Recycling", "Reducing", "Re-using", "Wasting"],
     "answer": "Reducing",
     "imagePath": ""
   },
   {
-    "question": "What can old tires be creatively re-used as?",
-    "options": [
-      "A school bag.",
-      "A chair.",
-      "A flower pot."
-    ],
-    "answer": "A flower pot.",
-    "imagePath": ""
-  },
-  {
-    "question": "Which of these is NOT one of the 3 R's?",
-    "options": [
-      "Reduce",
-      "Re-do",
-      "Re-use"
-    ],
-    "answer": "Re-do",
-    "imagePath": ""
-  },
-  {
-    "question": "What does 'Recycling' mean?",
-    "options": [
-      "Making new things from old materials.",
-      "Throwing things in the bin.",
-      "Keeping things forever."
-    ],
-    "answer": "Making new things from old materials.",
-    "imagePath": ""
-  },
-  {
-    "question": "Which of these items can be re-used?",
-    "options": [
-      "A sweet wrapper.",
-      "A glass jar.",
-      "A used tissue."
-    ],
-    "answer": "A glass jar.",
-    "imagePath": ""
-  },
-  {
     "question": "What can be made from recycled plastic bags?",
-    "options": [
-      "New food.",
-      "New park benches.",
-      "New trees."
-    ],
-    "answer": "New park benches.",
+    "options": ["New food", "New park benches", "New trees", "New clothes"],
+    "answer": "New park benches",
     "imagePath": ""
   },
   {
-    "question": "How many seasons are there in a year?",
-    "options": [
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "4",
+    "question": "Which of these materials can be recycled?",
+    "options": ["Food scraps", "Paper and glass", "Water", "Used tissues"],
+    "answer": "Paper and glass",
     "imagePath": ""
   },
   {
-    "question": "Which is the hottest season?",
-    "options": [
-      "Winter",
-      "Summer",
-      "Autumn"
-    ],
+    "question": "Which season is the hottest time of the year?",
+    "options": ["Winter", "Summer", "Autumn", "Spring"],
     "answer": "Summer",
     "imagePath": ""
   },
   {
-    "question": "Which months are usually winter in Botswana?",
-    "options": [
-      "December, January, February",
-      "March, April, May",
-      "June, July, August"
-    ],
-    "answer": "June, July, August",
+    "question": "What happens during Spring?",
+    "options": ["Farmers plough their fields", "It is the harvesting time", "It is the coldest season", "Plants start to grow new leaves and flowers"],
+    "answer": "Plants start to grow new leaves and flowers",
     "imagePath": ""
   },
   {
-    "question": "In which season do plants start to produce new flowers?",
-    "options": [
-      "Spring",
-      "Summer",
-      "Winter"
-    ],
-    "answer": "Spring",
+    "question": "In which season do many trees lose their leaves?",
+    "options": ["Summer", "Autumn", "Winter", "Spring"],
+    "answer": "Winter",
     "imagePath": ""
   },
   {
-    "question": "What do farmers do in the summer?",
-    "options": [
-      "They hibernate.",
-      "They harvest crops.",
-      "They plough their crops."
-    ],
-    "answer": "They plough their crops.",
-    "imagePath": ""
-  },
-  {
-    "question": "What happens to many trees in winter?",
-    "options": [
-      "They grow more fruit.",
-      "They lose their leaves.",
-      "They get taller."
-    ],
-    "answer": "They lose their leaves.",
-    "imagePath": ""
-  },
-  {
-    "question": "Match the season with what happens: Winter",
-    "options": [
-      "Farmers plough their fields.",
-      "It is the coldest season and people wear warm clothes.",
-      "Plants start to grow new leaves and flowers."
-    ],
-    "answer": "It is the coldest season and people wear warm clothes.",
-    "imagePath": ""
-  },
-  {
-    "question": "Match the season with what happens: Summer",
-    "options": [
-      "It is the harvesting time and fruits ripen.",
-      "Farmers plough their fields.",
-      "Plants start to grow new leaves and flowers."
-    ],
-    "answer": "Farmers plough their fields.",
-    "imagePath": ""
-  },
-  {
-    "question": "Match the season with what happens: Spring",
-    "options": [
-      "Plants start to grow new leaves and flowers.",
-      "It is the coldest season and people wear warm clothes.",
-      "It is the harvesting time and fruits ripen."
-    ],
-    "answer": "Plants start to grow new leaves and flowers.",
-    "imagePath": ""
-  },
-  {
-    "question": "Match the season with what happens: Autumn (Fall)",
-    "options": [
-      "It is the harvesting time and fruits ripen.",
-      "Farmers plough their fields.",
-      "It is the coldest season and people wear warm clothes."
-    ],
-    "answer": "It is the harvesting time and fruits ripen.",
+    "question": "What important activity do farmers do in the summer season in Botswana?",
+    "options": ["They hibernate", "They harvest crops", "They plough their fields", "They celebrate holidays"],
+    "answer": "They plough their fields",
     "imagePath": ""
   },
   {
     "question": "What is wind?",
-    "options": [
-      "Water that is falling.",
-      "Air that is still.",
-      "Air that is in motion."
-    ],
-    "answer": "Air that is in motion.",
+    "options": ["Water that is falling", "Air that is still", "Air that is in motion", "The light from the sun"],
+    "answer": "Air that is in motion",
     "imagePath": ""
   },
   {
     "question": "What instrument is used to show the direction of the wind?",
-    "options": [
-      "A thermometer.",
-      "A wind vane.",
-      "A ruler."
-    ],
-    "answer": "A wind vane.",
+    "options": ["A thermometer", "A wind vane", "A ruler", "A clock"],
+    "answer": "A wind vane",
     "imagePath": ""
   },
   {
-    "question": "Which of these does NOT show wind direction?",
-    "options": [
-      "A flag blowing.",
-      "A stone on the ground.",
-      "Smoke from a fire."
-    ],
-    "answer": "A stone on the ground.",
-    "imagePath": ""
-  },
-  {
-    "question": "How can wind be helpful?",
-    "options": [
-      "It can destroy houses.",
-      "It can help dry our clothes.",
-      "It can make us feel cold."
-    ],
-    "answer": "It can help dry our clothes.",
-    "imagePath": ""
-  },
-  {
-    "question": "What can a very strong wind do?",
-    "options": [
-      "Help plants grow.",
-      "Destroy crops and houses.",
-      "Make the sun shine brighter."
-    ],
-    "answer": "Destroy crops and houses.",
-    "imagePath": ""
-  },
-  {
-    "question": "Which of these things shows that the wind is blowing?",
-    "options": [
-      "The sun is shining.",
-      "Leaves on trees are moving.",
-      "It is very quiet outside."
-    ],
-    "answer": "Leaves on trees are moving.",
-    "imagePath": ""
-  },
-  {
-    "question": "A wind vane is used to measure...",
-    "options": [
-      "Wind speed.",
-      "Wind direction.",
-      "How hot it is."
-    ],
-    "answer": "Wind direction.",
-    "imagePath": ""
-  },
-  {
-    "question": "How does wind help plants?",
-    "options": [
-      "By spreading their seeds.",
-      "By giving them water.",
-      "By giving them sunlight."
-    ],
-    "answer": "By spreading their seeds.",
-    "imagePath": ""
-  },
-  {
-    "question": "Moving air is also called ______.",
-    "options": [
-      "Rain",
-      "Sun",
-      "Wind"
-    ],
-    "answer": "Wind",
-    "imagePath": ""
-  },
-  {
-    "question": "True or False: Strong wind is always safe.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
+    "question": "How can wind be helpful to us?",
+    "options": ["It can destroy houses", "It can help dry our clothes", "It can make us feel cold", "It can blow away our hats"],
+    "answer": "It can help dry our clothes",
     "imagePath": ""
   },
   {
     "question": "What is a shadow?",
-    "options": [
-      "A type of light.",
-      "A dark area made when light is blocked.",
-      "A reflection in the water."
-    ],
-    "answer": "A dark area made when light is blocked.",
-    "imagePath": ""
-  },
-  {
-    "question": "What do we call an object that does not let light pass through it?",
-    "options": [
-      "See-through object.",
-      "Opaque object.",
-      "Light object."
-    ],
-    "answer": "Opaque object.",
+    "options": ["A type of light", "A dark area made when light is blocked", "A reflection in water", "A colour in the rainbow"],
+    "answer": "A dark area made when light is blocked",
     "imagePath": ""
   },
   {
     "question": "When are shadows the longest?",
-    "options": [
-      "In the middle of the day.",
-      "At midnight.",
-      "In the morning and late afternoon."
-    ],
-    "answer": "In the morning and late afternoon.",
+    "options": ["In the middle of the day", "At midnight", "In the morning and late afternoon", "They are always the same length"],
+    "answer": "In the morning and late afternoon",
     "imagePath": ""
   },
   {
-    "question": "A shadow is formed when...",
-    "options": [
-      "It is very sunny.",
-      "Light is blocked.",
-      "It is night time."
-    ],
-    "answer": "Light is blocked.",
+    "question": "What is a 'waning' moon?",
+    "options": ["A moon that looks like it is getting bigger", "A moon that looks like it is shrinking", "A moon that is full", "A moon that is not visible"],
+    "answer": "A moon that looks like it is shrinking",
     "imagePath": ""
   },
   {
-    "question": "The different shapes of the moon are called its...",
-    "options": [
-      "Colours.",
-      "Phases.",
-      "Sizes."
-    ],
-    "answer": "Phases.",
+    "question": "What do we call an object that does not let light pass through it?",
+    "options": ["A see-through object", "An opaque object", "A light object", "A shiny object"],
+    "answer": "An opaque object",
     "imagePath": ""
   },
   {
-    "question": "What is a \"waxing\" moon?",
-    "options": [
-      "A moon that looks like it is shrinking.",
-      "A moon that looks like it is getting bigger.",
-      "A moon that has disappeared."
-    ],
-    "answer": "A moon that looks like it is getting bigger.",
+    "question": "Which of these is a cause of water pollution?",
+    "options": ["Fish swimming in the river", "Trees growing near the river", "Throwing rubbish into the river", "Rain falling into the river"],
+    "answer": "Throwing rubbish into the river",
     "imagePath": ""
   },
   {
-    "question": "When the moon appears to be getting smaller, it is...",
-    "options": [
-      "Waning.",
-      "Waxing.",
-      "Full."
-    ],
-    "answer": "Waning.",
+    "question": "Which of these is a water-borne disease?",
+    "options": ["A headache", "The flu", "Cholera", "A broken leg"],
+    "answer": "Cholera",
     "imagePath": ""
   },
   {
-    "question": "Which of these can make a shadow?",
-    "options": [
-      "A window.",
-      "A glass of water.",
-      "A person."
-    ],
-    "answer": "A person.",
+    "question": "The disease Bilharzia can cause which symptom?",
+    "options": ["A runny nose", "A cough", "Blood in your urine", "A sore throat"],
+    "answer": "Blood in your urine",
     "imagePath": ""
   },
   {
-    "question": "True or False: Shadows are very short in the morning.",
-    "options": [
-      "True",
-      "False"
-    ],
-    "answer": "False",
+    "question": "What is soil erosion?",
+    "options": ["Making the soil better for plants", "The washing or blowing away of topsoil", "Planting new trees", "Adding water to soil"],
+    "answer": "The washing or blowing away of topsoil",
     "imagePath": ""
   },
   {
-    "question": "Where do we usually see the moon?",
-    "options": [
-      "In the sky during the day.",
-      "In the sky at night.",
-      "Under the ground."
-    ],
-    "answer": "In the sky at night.",
+    "question": "How do tree roots help prevent soil erosion?",
+    "options": ["Their leaves give shade", "They hold the soil together", "They use up all the water", "They make the soil loose"],
+    "answer": "They hold the soil together",
+    "imagePath": ""
+  },
+  {
+    "question": "What is overgrazing?",
+    "options": ["Giving animals too much food", "Letting too many animals eat all the grass in one area", "Planting too much grass", "Chasing animals away"],
+    "answer": "Letting too many animals eat all the grass in one area",
+    "imagePath": ""
+  },
+  {
+    "question": "When a seed starts to grow into a plant, it is called...",
+    "options": ["Sleeping", "Germination", "Drying", "Wilting"],
+    "answer": "Germination",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of these do plants need to grow well?",
+    "options": ["Water and Sunlight", "Darkness and cold", "Stones and sand", "Juice and milk"],
+    "answer": "Water and Sunlight",
+    "imagePath": ""
+  },
+  {
+    "question": "What happens to a seed when it is soaked in water?",
+    "options": ["It becomes harder and smaller", "It swells and becomes soft", "It disappears", "It turns into a flower"],
+    "answer": "It swells and becomes soft",
+    "imagePath": ""
+  },
+  {
+    "question": "An animal that is kept at home by people is called a...",
+    "options": ["Wild animal", "Domestic animal", "Lost animal", "Scary animal"],
+    "answer": "Domestic animal",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of these is a wild animal?",
+    "options": ["A chicken", "A sheep", "A zebra", "A cat"],
+    "answer": "A zebra",
+    "imagePath": ""
+  },
+  {
+    "question": "What is the habitat of a crocodile?",
+    "options": ["Bush / Savannah", "Water / Swamp", "Nest in a tree", "Underground"],
+    "answer": "Water / Swamp",
+    "imagePath": ""
+  },
+  {
+    "question": "What is the habitat of a monkey?",
+    "options": ["Desert", "Water", "Trees / Forest", "Anthill"],
+    "answer": "Trees / Forest",
+    "imagePath": ""
+  },
+  {
+    "question": "What is grooming?",
+    "options": ["Playing outside", "Keeping our bodies clean and neat", "Eating healthy food", "Sleeping"],
+    "answer": "Keeping our bodies clean and neat",
+    "imagePath": ""
+  },
+  {
+    "question": "What is a major cause of tooth decay?",
+    "options": ["Brushing teeth every day", "Eating too many fruits", "Eating too many sweets and not brushing", "Drinking water"],
+    "answer": "Eating too many sweets and not brushing",
+    "imagePath": ""
+  },
+  {
+    "question": "How often should you brush your teeth?",
+    "options": ["Once a week", "Twice a day", "Once a month", "Only when they are dirty"],
+    "answer": "Twice a day",
+    "imagePath": ""
+  },
+  {
+    "question": "A doctor who takes care of teeth is called a...",
+    "options": ["Nurse", "Teacher", "Dentist", "Soldier"],
+    "answer": "Dentist",
+    "imagePath": ""
+  },
+  {
+    "question": "What is substance abuse?",
+    "options": ["Using medicine correctly", "Using harmful substances like alcohol and drugs", "Eating healthy food", "Drinking clean water"],
+    "answer": "Using harmful substances like alcohol and drugs",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of these is a substance that can be abused?",
+    "options": ["Water", "Alcohol", "Orange juice", "Milk"],
+    "answer": "Alcohol",
+    "imagePath": ""
+  },
+  {
+    "question": "True or False: Abusing drugs can cause serious road accidents.",
+    "options": ["True", "False"],
+    "answer": "True",
+    "imagePath": ""
+  },
+  {
+    "question": "What is the main purpose of road signs?",
+    "options": ["To make the road look pretty", "To keep people safe by guiding and warning them", "To tell you what time it is", "To show where birds can sit"],
+    "answer": "To keep people safe by guiding and warning them",
+    "imagePath": ""
+  },
+  {
+    "question": "What do lines and symbols painted on the road surface called?",
+    "options": ["Road art", "Road signs", "Road warnings", "Road markings"],
+    "answer": "Road markings",
+    "imagePath": ""
+  },
+  {
+    "question": "A road sign with a picture of a cow on it means...",
+    "options": ["You can buy meat here", "A farm is nearby", "Beware of cattle on the road", "This is a road for cows only"],
+    "answer": "Beware of cattle on the road",
+    "imagePath": ""
+  },
+  {
+    "question": "A warning sign with a person digging tells you that there are...",
+    "options": ["People planting trees", "Road works ahead", "A garden nearby", "Children playing"],
+    "answer": "Road works ahead",
+    "imagePath": ""
+  },
+  {
+    "question": "Which piece of clothing protects your head?",
+    "options": ["Gloves", "Boots", "A helmet", "A mask"],
+    "answer": "A helmet",
+    "imagePath": ""
+  },
+  {
+    "question": "What special clothing do firefighters wear to protect them from fire?",
+    "options": ["A normal uniform", "A fire-resistant suit", "A jersey and shorts", "A raincoat"],
+    "answer": "A fire-resistant suit",
+    "imagePath": ""
+  },
+  {
+    "question": "If you need to avoid breathing poisonous chemicals, you should wear a...",
+    "options": ["Mask", "Pair of boots", "Helmet", "Pair of gloves"],
+    "answer": "Mask",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of these is a dangerous substance you might find in a home?",
+    "options": ["Water", "Bread", "Cleaning bleach", "An apple"],
+    "answer": "Cleaning bleach",
+    "imagePath": ""
+  },
+  {
+    "question": "How should dangerous chemicals be stored at home?",
+    "options": ["On the floor in the kitchen", "In a safe place out of reach of children", "In your toy box", "Under your bed"],
+    "answer": "In a safe place out of reach of children",
+    "imagePath": ""
+  },
+  {
+    "question": "Is it safe to play with electrical outlets and plugs?",
+    "options": ["Yes, it's a fun game", "No, it is very dangerous", "Only if a grown-up is not looking", "Yes, if you use a toy"],
+    "answer": "No, it is very dangerous",
+    "imagePath": ""
+  },
+  {
+    "question": "Which food group gives us energy to run and play?",
+    "options": ["Body-building foods", "Energy-giving foods", "Protective foods", "Water"],
+    "answer": "Energy-giving foods",
+    "imagePath": ""
+  },
+  {
+    "question": "Meat, fish, and beans belong to which food group?",
+    "options": ["Body-building foods", "Energy-giving foods", "Protective foods", "Junk foods"],
+    "answer": "Body-building foods",
+    "imagePath": ""
+  },
+  {
+    "question": "Which food comes from a plant?",
+    "options": ["Milk", "Cheese", "Bread", "Yoghurt"],
+    "answer": "Bread",
+    "imagePath": ""
+  },
+  {
+    "question": "Which food group protects our bodies from getting sick?",
+    "options": ["Body-building foods", "Energy-giving foods", "Protective foods", "Sugary foods"],
+    "answer": "Protective foods",
+    "imagePath": ""
+  },
+  {
+    "question": "What is the morning meal called?",
+    "options": ["Lunch", "Supper", "Breakfast", "Snack"],
+    "answer": "Breakfast",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of these is an unhealthy eating habit?",
+    "options": ["Eating many different vegetables", "Skipping breakfast", "Drinking water", "Eating fruits"],
+    "answer": "Skipping breakfast",
+    "imagePath": ""
+  },
+  {
+    "question": "Oranges and spinach are good for you because they are...",
+    "options": ["Energy-giving foods", "Body-building foods", "Protective foods", "Fatty foods"],
+    "answer": "Protective foods",
+    "imagePath": ""
+  },
+  {
+    "question": "Which of these is an example of a Body-Building food?",
+    "options": ["An apple", "Bread", "An egg", "A potato"],
+    "answer": "An egg",
     "imagePath": ""
   }
 ]
